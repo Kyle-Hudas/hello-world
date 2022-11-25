@@ -1,2 +1,2 @@
 # hello-world
-ideas, resources and discussions with others
+my first repository
